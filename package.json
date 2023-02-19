@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-react-node-mongo",
+  "version": "1.0.0",
+  "description": "boilerplate for mongodb, express and react auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gsambrotta/auth-session-mern-boilerplate.git"
+  },
+  "author": "gsambrotta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsambrotta/auth-session-mern-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gsambrotta/auth-session-mern-boilerplate#readme"
+}
